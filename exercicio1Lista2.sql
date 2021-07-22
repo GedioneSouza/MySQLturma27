@@ -1,5 +1,5 @@
 /*create database db_generation_game_online;
-*/
+
 
 use db_generation_game_online;
 
@@ -53,4 +53,4 @@ select * from tb_personagem
     
 select * from tb_personagem
     inner join tb_classe on tb_classe.id = tb_personagem.classe_id
-    where classe = "Berseker";
+    where classe = "Berseker";/

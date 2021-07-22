@@ -30,7 +30,7 @@ select * from tb_eletronicos where preco < 500;
 update tb_eletronicos set preco = 3000.00
 where id = 1;
 
-select * from tb_eletronicos;
+select * from tb_eletronicos;/
 */
 
 

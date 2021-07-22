@@ -24,5 +24,5 @@ values
 
 select * from tb_funcionario where salario > 2000.00;
 
-select * from tb_funcionario where salario < 3000.00;
+select * from tb_funcionario where salario < 3000.00;/
 */

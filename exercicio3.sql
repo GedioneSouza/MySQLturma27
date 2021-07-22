@@ -26,7 +26,7 @@ select * from tb_alunes where nota > 7;
 select * from tb_alunes where nota < 7;
 
 update tb_alunes set nota = 9.7
-where id = 1;
+where id = 1;/
 */
 
 
